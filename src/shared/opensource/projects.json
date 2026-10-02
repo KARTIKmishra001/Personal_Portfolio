@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOOT8I7",
+      "name": "IntelliBoard-DigitalBoard",
+      "createdAt": "2026-04-04T12:28:43Z",
+      "url": "https://github.com/KARTIKmishra001/IntelliBoard-DigitalBoard",
+      "description": "An AI-powered collaborative whiteboard for smarter brainstorming and problem-solving.",
+      "isFork": false,
+      "languages": [
+          {
+            "name": "HTML",
+            "iconifyClass": "logos-html-5"
+          },
+          {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPpvvew",
+      "name": "ParkingGo ",
+      "createdAt": "2025-12-28T11:44:13Z",
+      "url": "https://github.com/KARTIKmishra001/ParkingGo",
+      "description": "A smart parking platform for finding, booking, and managing parking spaces with ease.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOL2cypg",
+      "name": "Gesture-Control",
+      "createdAt": "2025-10-03T00:58:41Z",
+      "url": "https://github.com/KARTIKmishra001/Gesture-Control",
+      "description": "A computer-vision application that enables hands-free interaction using real-time hand gestures.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONl4lXA",
+      "name": "HerShield---Women-Safety ",
+      "createdAt": "2025-08-22T18:00:02Z",
+      "url": "https://github.com/KARTIKmishra001/HerShield---Women-Safety",
+      "description": "An AI-powered women’s safety platform for emergency support, awareness, and community assistance.",
+      "isFork": false,
+      "languages": [
+        {
+            "name": "HTML",
+            "iconifyClass": "logos-html-5"
+          },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLjIeeQ",
+      "name": "Basic_Scripting_lang_compiler",
+      "createdAt": "2025-05-20T16:39:36Z",
+      "url": "https://github.com/KARTIKmishra001/Basic_Scripting_lang_compiler",
+      "description": "A C++ compiler project that performs lexical analysis, parsing, AST generation, and code generation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJ3IZJQ",
+      "name": "Cat-and-dog-image-calssification-using-basic-machine-learning ",
+      "createdAt": "2025-03-03T16:44:55Z",
+      "url": "https://github.com/KARTIKmishra001/Cat-and-dog-image-calssification-using-basic-machine-learning",
+      "description": "A machine learning project that classifies images of cats and dogs using a trained neural network.",
+      "isFork": false,
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.raw_logo {
+  width: 305px;
+  max-width: 80vw;
+  max-height: 70vh;
+  height: auto;
+  object-fit: contain;
+}
