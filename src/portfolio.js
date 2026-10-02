@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "KARTIKmishra",
     type: "website",
-    url: "https://akhilsin-portfolio.vercel.app/#/", // Change this to your website URL
+    url: "https://personal-portfolio-pi-rust.vercel.app/", 
   },
 };
 
