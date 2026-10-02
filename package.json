@@ -1,7 +1,6 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://KARTIKmishra.github.io",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
